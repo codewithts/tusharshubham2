@@ -1,0 +1,167 @@
+body{
+    /* background-color: black; */
+}
+#firster{
+    background: #defcf9;
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    left: 0;
+}
+.navbar-brand{
+    color: blue;
+}
+.card{
+    margin: 5px;
+}
+#first { 
+	background: #defcf9; 
+}
+	
+#second { 
+	background: #cadefc; 
+}
+
+#third { 
+	background: #c3bef0; 
+}
+
+#forth { 
+	background: #cca8e9; 
+}
+.fw-bold {
+    font-weight: 700!important;
+    text-transform: capitalize;
+}
+.container {
+    /* background-color: #cfe9fe; */
+}
+
+.pb-0{
+    background-color: #c3bef0;
+}
+.btn a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+#butn{
+    background-color: aqua;
+}
+.thirdpage{
+    width:100%;
+    height: 100vh;
+     background-image: linear-gradient(45deg, rgba(0,0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(1680599419298.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+/* .youtube {
+     width: 100%;
+    height: 100vh;
+    background-color: #1e8fff51; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; } */
+
+.bhai{
+   font-family: ' sans-serif';
+    text-align: center;
+    /* text-transform: uppercase; */
+    font-size: 50px;
+    /* color:whitesmoke; */
+    color: whitesmoke;
+    
+}
+.link h1{
+    text-align: center;
+    font-size: 25px;
+    color: whitesmoke;
+    text-transform: capitalize;
+    text-shadow: 2px 5px 10px black;
+}
+.youtube p{
+    font-size: 30px;
+    padding: 5px;
+    text-transform: capitalize;
+    color: whitesmoke;
+    padding: 15px; 
+}
+.thumb{
+  /* height: 250px;  
+  width: 390px; */
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px; 
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.fuck{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    text-transform: uppercase;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #009688;
+    background: rgba(0, 0, 0, 0.644); 
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+button:hover{
+    background-color: #10e9d3;
+    /* border-color: 2px solid black; */
+    color: black;
+    border: 4px solid black;
+
+}
+iframe{
+    border-radius: 15px;
+   
+    /* box-shadow: #d3fb0d; */
+}
+iframe:hover{
+    border: 5px solid #10e9d3c9;
+}
+.bhai:hover{
+    text-shadow: red -4px 0, cyan 4px 0;
+    color: rgb(0, 0, 0);
+}
+.youtube p{
+    text-transform: uppercase;
+}
+    #footer {
+        text-align: center;
+        justify-content: center;
+        background-color: rgba(128, 128, 128, 0.614);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
